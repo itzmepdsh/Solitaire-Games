@@ -1,7 +1,9 @@
-//Submitted By: PRADEEP SHARMA (2K20/MC/098)
-//CS 251 DATA STRUCTURE
-//MID TERM PROJECT
-//SOLITAIRE GAME
+/*
+DEVELOPED BY :-
+	PRADEEP SHARMA
+----------------------------------------SOLITAIRE GAME--------------------------------------
+*/
+
 #include <stdio.h>
 #include <iomanip>
 #include <iostream>
