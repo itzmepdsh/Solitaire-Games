@@ -1,7 +1,8 @@
 /*
-DEVELOPED BY :-
-	PRADEEP SHARMA
-----------------------------------------SOLITAIRE GAME--------------------------------------
+    DEVELOPED BY : PRADEEP SHARMA
+
+
+-----------------------------------------SOLITAIRE GAME---------------------------------------------------
 */
 
 #include <stdio.h>
